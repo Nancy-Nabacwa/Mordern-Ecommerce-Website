@@ -4,7 +4,7 @@ body{
 #E-web{
     border: none;
     padding: 20px;
-    margin: 50px auto;
+    margin: 50px;
     background-color: white;
 
 }
@@ -89,7 +89,7 @@ body{
   }
   #top-right{
     display: flex;
-    margin-left: 320px;
+    margin-left: 250px;
     
   }
   .ring-container {
@@ -149,7 +149,7 @@ body{
     display: flex;
 }
 #favy{
-    margin-left: 500px;
+    margin-left: 200px;
     display: flex;
     margin-top: 20px;
 }
