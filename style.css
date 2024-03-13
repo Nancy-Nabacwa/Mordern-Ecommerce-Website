@@ -2,15 +2,16 @@ body{
     background-color: black;
 }
 #E-web{
-    border: none;
-    padding: 20px;
-    margin: 50px;
+     
     background-color: white;
+    height: 3000px;
 
 }
 #rest_of_body{
-    padding: 50px;
-    margin-left: 50px;
+    
+    margin: 50px;
+    
+
 }
 
 
@@ -156,4 +157,77 @@ body{
 #Sajjad_container{
     border: none;
 }
+#nav2{
+  display: flex;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+#nav2 a{
+  text-decoration: none;
+  color: grey;
+  padding: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: small;
+
+}
+#nav2 a :hover{
+  text-decoration: underline;
+  color: black;
+}
+header{
+  display: flex;
+  margin-left: 50px;
   
+}
+.april1{
+  margin-top: 10px;
+  color: grey;
+}
+.april2{
+  margin-top: 20px;
+  margin-left: 350px;
+}
+.hApril{
+  font-size:40px; 
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: rgb(51,51,51);
+  
+}
+#laugh{
+  display: flex;
+  text-align: center;
+  
+  
+}
+#words{
+  margin-top: 200px;
+  margin-left: 150px;
+
+}
+
+.laughing{
+  margin-top: 50px;
+  position: absolute;
+  height: 500px;
+  margin-left: 500px;
+  
+  
+}
+#simple{
+  font-size: 50px;
+  color: rgba(36, 6, 6, 0.918);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#hash{
+  color: rgba(36, 6, 6, 0.918);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size:x-small;
+  margin-top: 5px;
+}
+#explore{
+  background-color:rgba(36, 6, 6, 0.918) ;
+  color: white;
+  height:30px;
+  width: 100px;
+  border: none;
+}
