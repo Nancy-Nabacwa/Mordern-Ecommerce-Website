@@ -1,0 +1,107 @@
+#Form{
+    border:none;
+    width: 50%;
+    padding:60px;
+    border-radius: 30px;
+    height: 50%;
+    margin:0 auto;
+    text-align: center;
+
+}
+
+.iconForm{
+    height:30px;
+    margin-top: 8px;
+}
+#button{
+    background-color: rgb(13,12,34);
+    border: none;
+    border-radius: 30px;
+    padding: auto;
+    height: 50px;
+    width:500px
+   
+
+}
+button a{
+    text-decoration: none;
+}
+h5{
+    margin-top: 8px;
+    color:rgb(255,255,255);
+    font-size: x-large;
+    
+}
+#text_Button{
+    display: flex;
+    padding-left: 120px;
+    
+}
+h3{
+    font-weight: bold;
+    color: gray;
+}
+h4{
+    color: black;
+    font-size: x-large;
+    margin-top: 8px;
+}
+#button_Gmail{
+    background-color:white;
+    border: none;
+    border-radius: 30px;
+    padding: auto;
+    height: 50px;
+    width:500px;
+}
+#button_Gmail:hover {
+    border:2px solid gray;
+    border-radius: 30px;
+ }
+ h4:hover{
+    color: black;
+    font-size: x-large;
+    margin-top:8px ;
+}
+.Conditions{
+    color: grey;
+}
+.Conditions a{
+    text-decoration-color: black;
+    color: black;
+}
+#button_SignIn{
+    background-color:white;
+    border: none;
+    border-radius: 30px;
+    padding: auto;
+    height: 50px;
+    width:500px;
+}
+#button_SignIn:hover{
+    border:2px solid gray;
+    border-radius: 30px;
+}
+#pLine{
+    width: 90%; 
+    text-align: center; 
+    border-bottom: 1px solid grey; 
+    line-height: 0.1em;
+    margin: 10px 0 20px 30px; 
+}
+#pLine span {
+    background:#fff; 
+    padding:0 10px; 
+}
+#button_Signin{
+    background-color: rgb(13,12,34);
+    border: none;
+    border-radius: 30px;
+    padding: auto;
+    height: 50px;
+    width:500px
+}
+#text_Button-SignIn{
+    display:flex;
+    padding-left: 120px;
+}
