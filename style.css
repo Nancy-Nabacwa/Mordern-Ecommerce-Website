@@ -9,13 +9,14 @@ body{
 
 }
 #rest_of_body{
-    padding: 70px;
+    padding: 50px;
+    margin-left: 50px;
 }
 
 
 #mainheader{
     display: flex;
-    justify-content: space-between;
+    
     
 }
 
@@ -31,6 +32,7 @@ body{
 .navbar {
     overflow: hidden;
     background-color: white;
+    padding-left: 30px;
   }
   .navbar a {
     float: left;
@@ -87,6 +89,7 @@ body{
   }
   #top-right{
     display: flex;
+    margin-left: 320px;
     
   }
   .ring-container {
