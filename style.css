@@ -1,0 +1,219 @@
+#nav2{
+    display: flex;
+    margin-left: 20px;
+    margin-top: 10px;
+  }
+  #nav2 a{
+    text-decoration: none;
+    color: grey;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: small;
+  
+  }
+  #nav2 a :hover{
+    text-decoration: underline;
+    color: black;
+  }
+  header{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    
+  }
+  .april1{
+    margin-top: 10px;
+    color: grey;
+  }
+  .april2{
+    margin-top: 20px;
+    margin-left: 350px;
+  }
+  .hApril{
+    font-size:40px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(51,51,51);
+    
+  }
+  #laugh{
+    display: flex;
+    text-align: center;
+    
+    
+  }
+  #words{
+    margin-top: 200px;
+    margin-left: 150px;
+  
+  }
+  
+  .laughing{
+    margin-top: 10%;
+    position: absolute;
+    height: 500px;
+    margin-left: 500px;
+    
+    
+  }
+  #simple{
+    font-size: 50px;
+    color: rgba(36, 6, 6, 0.918);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  #Hash_up{
+    display: flex;
+    margin-left:50px;
+    font-size:medium;
+    
+  }
+  #hash{
+    color: rgba(36, 6, 6, 0.918);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size:x-small;
+    margin-top: 5px;
+  }
+  #explore{
+    background-color:rgba(36, 6, 6, 0.918) ;
+    color: white;
+    height:30px;
+    width: 100px;
+    border: none;
+  }
+   #small3{
+    display: flex;
+    margin-top: 100px;
+    font-size: 10px;
+    
+   }
+   .smol{
+    padding: 20px;
+    font-weight: lighter;
+    color: grey;
+   }
+   .special_small{
+    height: 1px;
+    padding: 20px;
+    color: grey;
+    margin-top: 10px;
+    border-left: 2px solid;
+    border-right: 2px solid;
+   }
+   .for_her{
+    height: 350px;
+   }
+   #second_right{
+    
+   }
+   .second_right_imgs{
+    height: 250px;
+   }
+   #nav_second_right{
+    display: flex;
+    
+   }
+   #nav_second_right p{
+    padding: 10px;
+    
+   }
+   p{
+    font-size: 10px;
+    color: grey;
+   }
+   #second_part{
+    display: flex;
+    margin: 0px 100px 0px 50px;   
+
+   }
+   .third_imgs{
+    width: 900px;
+   }
+   #third_section{
+    margin-left: 100px;
+   }
+   .third_left_imgs{
+    height: 250px;
+   }
+   #fourth_part{
+    display: flex;
+    margin: 0px 100px 0px 50px; 
+   }
+   #sixth_part{
+    display: flex;
+    margin-left: 100px;
+   }
+   .bottom_ims{
+    height: 50px;
+    padding: 20px;
+   }
+   .fb{
+    height: 20px;
+   }
+   #fb{
+    height: 20px;
+   }
+   #yt{
+    height: 15px;
+   }
+   #v{
+    height: 15px;
+   }
+   .fApril{
+    font-size:40px; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(51,51,51);
+    
+   }
+   .cond{
+    height: 8px;
+   }
+   footer{
+    display: flex;
+    justify-content: space-between;
+    padding:  0 150px;
+   }
+
+   
+  @media only screen and (min-device-width: 320px) and (max-device-width: 480px)  {
+    .hApril{ 
+        font-size: medium;
+        color: rgb(51,51,51);
+        
+      } 
+      #Hash_up{
+        display: flex;
+        margin-left: 20px;
+        font-size:medium;
+        
+      }
+      .laughing{
+        margin-top: 10%;
+        position: absolute;
+        height: 200px;
+        margin-left: 100px;
+        
+        
+      }
+      #words{
+        margin-top: 150px;
+        margin-left: 50px;
+        
+      
+      }
+      #simple{
+        font-size: 20px;
+        margin-left: 10px;
+        
+      }
+      #explore{
+        
+        color: white;
+        height:20px;
+        width: 100px;
+        border: none;
+        font-size: small;
+      }
+
+      
+     
+
+  }
